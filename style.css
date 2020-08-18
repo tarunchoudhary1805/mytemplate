@@ -1,0 +1,51 @@
+.heade{
+    text-align: center;
+    margin: 150px;
+    
+}
+.heade h1{
+    font-family: 'Suez One', serif;
+
+}
+.carde{
+    margin-top: 250px;
+    
+}
+.card-body{
+    align-items: center;
+    padding: 90px 70px;
+    background-color: black;
+    color: white;
+    height: 100%;
+}
+.cardf{
+    background-color: white;
+    color: black;
+    
+}
+.cardn{
+    margin-left: 100px;
+    margin-top: 100px;
+    border: none;
+}
+.jobs{
+    margin: 100px;
+}
+.jobsection{
+    background-color:lightgray;
+}
+.jobsection h3{
+    padding-top: 100px;
+}
+.jobcol{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.card-img{
+    height: 100%;
+}
+.order-md-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
